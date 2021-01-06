@@ -1,0 +1,2 @@
+Baza wypozyczalni samochodowej 
+Posiada dane na temat pracownikow, klientów, samochodów, wypożyczeń oraz cennik
